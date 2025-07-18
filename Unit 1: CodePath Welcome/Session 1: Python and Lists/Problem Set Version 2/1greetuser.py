@@ -17,6 +17,6 @@ Command to run this file:
 python3 1greetuser.py
 ''' 
 def greet_user(name):
-    print ("Hello ", name)
+    print ("Hello", name)
 
-greet_user()
+greet_user("Micheal")

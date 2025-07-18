@@ -12,3 +12,8 @@ Example Output: diff = 5
 Command to run this file:
 python3 2calculatedifference.py
 ''' 
+def difference(a, b):
+    return a-b
+
+result = difference(3,8)
+print(result)
