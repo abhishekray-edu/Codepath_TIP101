@@ -16,3 +16,7 @@ Note: pass is a keyword that is used as a placeholder for future code
 Command to run this file:
 python3 1greetuser.py
 ''' 
+def greet_user(name):
+    print ("Hello ", name)
+
+greet_user()
